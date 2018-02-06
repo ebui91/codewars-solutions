@@ -1,7 +1,7 @@
 /**
 LEVEL 5 KYU
 Source: https://www.codewars.com/kata/57feb00f08d102352400026e/train/javascript
-Date: 02.4.2018
+Date: 02.04.2018
 **/
 
 let flapDisplay= (lines, rotors)=> {

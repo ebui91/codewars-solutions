@@ -1,4 +1,5 @@
 /**
+LEVEL 7 KYU
 Source: https://www.codewars.com/kata/mega-man-boss-order/train/javascript
 Date: 01.28.2018
 **/
